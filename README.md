@@ -1,4 +1,4 @@
-# OFA
+# Ofa
 
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/roqueando/ofa)
 
